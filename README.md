@@ -21,14 +21,6 @@
 
 ---
 
-## Preview
-
-<p align="center">
-  <img src="./docs/preview.png" alt="JSON Formatter Preview" width="800" style="border-radius: 8px; border: 1px solid #e4e4e7;" />
-</p>
-
----
-
 ## Core Features
 
 - **Format** — Pretty-print JSON with proper indentation (2-space)
@@ -82,8 +74,6 @@ That's it. No install step needed — it's a single HTML file.
 json-formatter-validator/
 ├── index.html      # Main application (HTML + CSS + JS)
 ├── logo.png        # Circular favicon & header logo
-├── docs/
-│   └── preview.png # Screenshot for README
 ├── README.md       # This file
 └── LICENSE         # MIT License
 ```
